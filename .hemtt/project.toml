@@ -1,0 +1,6 @@
+name = "Zeus Mission Control"
+prefix = "zmc"
+mainprefix = "z"
+
+[version]
+git_hash = 0

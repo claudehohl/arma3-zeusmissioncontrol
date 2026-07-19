@@ -1,6 +1,6 @@
 # Zeus Mission Control (ZMC)
 
-A mission console for Zeus game masters in Arma 3. Opens with **Ctrl+Shift+Y** (**Ctrl+Shift+Z** on QWERTZ keyboards — same physical key as the default Zeus key) — only for players with an assigned Zeus unit. No dependencies, no script code required in the mission.
+A mission console for Zeus game masters in Arma 3. Opens with **Ctrl+Shift+Z** (Y on QWERTY keyboards) — only for players with an assigned Zeus unit. No dependencies, no script code required in the mission.
 
 ![Zeus Mission Control](media/zmc.jpg)
 

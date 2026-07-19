@@ -2,5 +2,10 @@ name = "Zeus Mission Control"
 prefix = "zmc"
 mainprefix = "z"
 
+[hemtt.release]
+archive = false # Default: true
+
 [version]
-git_hash = 0
+major = 1
+minor = 0
+patch = 0

@@ -7,7 +7,7 @@ ZMC_dialogIDD = 86600;	// must match idd of MissionControlGUI in config.cpp
 [] spawn {
 	waitUntil {!isNull findDisplay 46};
 
-	// Keybind: Ctrl+Shift+Y by default (Z on QWERTZ layouts; DIK codes are
+	// Keybind: Ctrl+Shift+Z by default (Y on QWERTY layouts; DIK codes are
 	// physical key positions), overridable in description.ext:
 	// class MissionControl { key = 21; shift = 1; ctrl = 1; alt = 0; };
 	private _cfg = missionConfigFile >> "MissionControl";
